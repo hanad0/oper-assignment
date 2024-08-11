@@ -1,6 +1,4 @@
-# Engineering Assessment
-
-Starter project to use for the engineering assessment exercise
+# Oper Assessment
 
 ## Requirements
 - Docker
